@@ -1,1 +1,4 @@
 .vagrant
+.DS_Store
+inventory/k3s-0/.DS_Store
+inventory/k3s-0/.DS_Store
